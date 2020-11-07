@@ -13,6 +13,12 @@ And that's all there is to it! Happy gaming!
 
 PS: Please update when updates are available, I don't want to force them. 😊
 
+### Updating:
+Simply follow the installation instructions, however place all the extracted files in the same folder as the original installation.
+When asked, select replace all files.
+
+If this doesn't work for you, simply delete your original installation and replace it with the latest version. You may have to update your shotcuts if applicable.
+
 # [Insidious Discord](discord.gg/insidiousrp)
 
 ### Cache Clearing
@@ -20,13 +26,10 @@ PS: Please update when updates are available, I don't want to force them. 😊
 If you seem to be having issues where the cache clearing button isn't actually clearing the cache,
 edit the "cache.bat" file that comes with the launcher.
 
-Replace all
-```
-C:\Users\%username%\AppData\Local\FiveM\FiveM.app\cache\
-```
-instances with the directory of your game's cache. Be sure not to remove anything after the cache directory's trailing slash.
+Replace all `C:\Users\%username%\AppData\Local\FiveM\FiveM.app\cache\` instances with the directory of your game's cache. Be sure not to remove anything after the cache directory's trailing slash.
 
 For example:
+
 old:
 ```
 del "C:\Users\%username%\AppData\Local\FiveM\FiveM.app\cache\browser" /s /f /q
