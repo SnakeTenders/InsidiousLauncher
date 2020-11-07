@@ -1,4 +1,4 @@
-# Insidious Launcher 1.1
+# Insidious Launcher 1.2
 It seems you have stumbled upon the official InsidiousRP Launcher!
 Full disclosure: I'm not artistic or creative 😕
 
